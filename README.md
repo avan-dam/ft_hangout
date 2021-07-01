@@ -1,4 +1,4 @@
-#ft_hangout
+# ft_hangout
 
 This was a project for a technical interview simulation.
 
